@@ -3,7 +3,7 @@ PHP example of using the version 2 Basic API.
 
 ## Getting Started
 
-A complete example on how to use the Basic API in PHP is available here: [https://github.com/certitrade/ctpsp2-basic-example-php]
+A complete example on how to use the Basic API in PHP is available on [Github](https://github.com/certitrade/ctpsp2-basic-example-php).
 
 To get started:
 
